@@ -1,5 +1,7 @@
 # msds-462-facemask-detection
- Flask application for facemask detection
+ Flask application for facemask detection. For a detailed synopsis please the the following document:
+ 
+ 
 
 # Instructions for execution: 
 
