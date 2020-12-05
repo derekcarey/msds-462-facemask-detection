@@ -23,7 +23,7 @@ Adding additional features to the Flask application was also considered. In a pr
 The application was initially developed on MacOS and later tested on a machine running Windows. Future work would benefit from containerizing the application using Docker or a similar containerization service for simplified deployment. However, details on specific libraries used for model development have been provided in the Github README.txt instructions to assist developers in ensuring compatibility between environments.  
 # References
   Makwana, D. (2019, August). Face Mask Classification, Version 1. October 27, 2020 from <br /> 
-       https://www.kaggle.com/dhruvmak/face-mask-detection <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.kaggle.com/dhruvmak/face-mask-detection <br />
   Peeples, L. (2020). Face masks: What the data say. Nature, 586(7828), 186-189. doi:10.1038/d41586-020-02801-8 <br /> 
 
 
