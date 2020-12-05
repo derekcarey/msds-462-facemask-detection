@@ -17,6 +17,17 @@ http://192.168.86.61:5000
 
 Once downloaded this folder must be extracted and placed within the VideoStreaming directory. 
 
+
+# Reperforming model training
+
+The file MSDS_462_Mask_Detection_Model_Training.ipynb can be used for training a new model. The original model training was performed using the following Google Colab notebook:
+
+https://colab.research.google.com/drive/1DbR6XFv_JJU-IkqFBzsJETeFiy_8xUY2?usp=sharing
+
+The notebook assuming image contents are available within a Google Drive location at '/content/drive/My Drive/msds/462/mask-data/'. The dataset can be downloaded from kaggle's Face Mask Classification dataset created by Dhruv Makwana at the following url:
+
+https://www.kaggle.com/dhruvmak/face-mask-detection
+
 # Package Details
 
 The appplication was configured in an environment running the following python packages. 
