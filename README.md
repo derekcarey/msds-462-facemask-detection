@@ -48,7 +48,7 @@ Keras 2.4.3 <br />
 matplotlib 3.3.3 <br />
 requests 2.25.0 <br />
 numpy 1.18.5  <br />
-opencv-python <4.4.0.46>
+opencv-python 4.4.0.46 <br />
 
 # CUDA Toolkit 11.1 Update 1 
 
