@@ -24,7 +24,6 @@ The appplication was configured in an environment running the following python p
 
 
 Package                  Version
------------------------- -------------------
 absl-py                  0.11.0
 argon2-cffi              20.1.0
 astor                    0.8.1
