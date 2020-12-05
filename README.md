@@ -9,11 +9,11 @@ https://derek-public-files.s3.amazonaws.com/mask_detection_model.zip
 
 The Flask server and application is started by executing the command 'python main.py' from the VideoStreaming directory. The application will run locally on the device network using and can be accessed using the following url:
 
-http://{LOCAL IP ADDRESS}:50000
+http://{LOCAL IP ADDRESS}:5000
 
 For example, when executed on a device with a local IP of 192.168.86.61, the web appication can be accessed on the local network by entering the  url:
 
-http://192.168.86.61
+http://192.168.86.61:5000
 
 Once downloaded this folder must be extracted and placed within the VideoStreaming directory. 
 
