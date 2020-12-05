@@ -50,6 +50,8 @@ requests 2.25.0 <br />
 numpy 1.18.5  <br />
 opencv-python 4.4.0.46 <br />
 
+Packages were managed using an Anaconda virtual environment using Python 3.7. While this application may work with other versions of Python or imported libraries, compatibility is not guarenteed. 
+
 # CUDA Toolkit 11.1 Update 1 
 
 Execution of the facemask detection Flask application may require installation of the NVIDIA CUDA Toolkit available at the current location:
