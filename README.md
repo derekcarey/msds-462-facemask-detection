@@ -3,12 +3,16 @@
  
  https://github.com/derk924/msds-462-facemask-detection/blob/main/Project%20Synopsis.md
  
+ 
 
 # Instructions for execution: 
 
 The github repo does not include the mask_detection_model folder due to filesize restrictions. A compressed version of the folder can be downloaded from the following S3 location:
 
 https://derek-public-files.s3.amazonaws.com/mask_detection_model.zip
+
+Once downloaded this folder must be extracted and placed within the VideoStreaming directory. 
+
 
 The Flask server and application is started by executing the command 'python main.py' from the VideoStreaming directory. The application will run locally on the device network using and can be accessed using the following url:
 
@@ -17,8 +21,6 @@ http://{LOCAL IP ADDRESS}:5000
 For example, when executed on a device with a local IP of 192.168.86.61, the web appication can be accessed on the local network by entering the  url:
 
 http://192.168.86.61:5000
-
-Once downloaded this folder must be extracted and placed within the VideoStreaming directory. 
 
 
 # Reperforming model training
