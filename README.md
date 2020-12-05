@@ -1,5 +1,5 @@
 # Facemask detection web application using TensorFlow and Flask
- Flask application for facemask detection. For a detailed synopsis please the the following document:
+ This document outlines instructions for executing the facemask detection Flask application developed as my MSDS 462 Computer Vision project. For a detailed synopsis of the application background and design approach please the the following document:
  
  https://github.com/derk924/msds-462-facemask-detection/blob/main/Project%20Synopsis.md
  
