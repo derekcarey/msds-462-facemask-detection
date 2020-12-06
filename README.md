@@ -35,7 +35,7 @@ https://www.kaggle.com/dhruvmak/face-mask-detection
 
 # Package Details
 
-The appplication was configured in an environment running the following python packages. 
+The appplication was configured in an environment running the following relevant python packages. 
 
 tensorflow 2.3.1 <br />
 tensorflow-gpu 2.3.1 <br />
