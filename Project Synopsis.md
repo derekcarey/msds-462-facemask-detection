@@ -16,7 +16,7 @@ If no face is identified in a camera frame, a response is overlaid on the web vi
 ![Alt text](/Application_Sample_Images/Sample_Image_No_Face_Mask_Detection.png)
 
 
-![Alt text](/Application_Sample_Images/Sample_Image_No_Mask_Detection.png)
+![Alt text](/Application_Sample_Images/Sample_Image_No_Mask.png)
 
 # Recommendations for future enhancements:
 There are several identified issues and enhancements that could be made to improve the application utility. While the model could have used binary classification, the initial objective was to perform a multiclass classification of images containing faces not wearing facemasks, wearing facemasks improperly, and wearing facemasks properly. Due to limitations in the availability of quality datasets, the 3-class prediction was descoped. However, the application could easily be adapted for a model performing 3-class prediction with minor adjustments. The face-detection components of the application are also areas of improvement. Differences in lighting have a clear impact on the ability to correctly detect faces in a camera feed. While algorithms from OpenCV were a somewhat reliable way of performing face detection, there are also other alternatives available that may improve accuracy such as using AWS’s Recognition service through an API call. <br /> 
